@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "importyeti": {
+      "type": "http",
+      "url": "https://data.importyeti.com/mcp"
+    }
+  }
+}

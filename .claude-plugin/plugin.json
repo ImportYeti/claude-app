@@ -1,0 +1,18 @@
+{
+  "name": "importyeti",
+  "displayName": "ImportYeti",
+  "version": "1.0.0",
+  "description": "See who's importing what, who their suppliers are, and how their shipping activity has changed, using ImportYeti's US import/export bills of lading and Mexico customs declarations. Requires an ImportYeti account with API credits.",
+  "author": {
+    "name": "ImportYeti, LLC",
+    "url": "https://www.importyeti.com"
+  },
+  "homepage": "https://www.importyeti.com/mcp",
+  "license": "MIT",
+  "keywords": ["trade data", "supply chain", "sourcing", "suppliers", "importers", "bill of lading", "customs", "mexico"],
+  "icon": "./assets/logo.png",
+  "documentationUrl": "https://www.importyeti.com/mcp",
+  "supportUrl": "https://www.importyeti.com/contact",
+  "privacyPolicyUrl": "https://www.importyeti.com/policies/privacy",
+  "termsOfServiceUrl": "https://www.importyeti.com/policies/terms"
+}
