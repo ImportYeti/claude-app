@@ -8,6 +8,7 @@
     "url": "https://www.importyeti.com"
   },
   "homepage": "https://www.importyeti.com/mcp",
+  "repository": "https://github.com/ImportYeti/claude-app",
   "license": "MIT",
   "keywords": ["trade data", "supply chain", "sourcing", "suppliers", "importers", "bill of lading", "customs", "mexico"],
   "icon": "./assets/logo.png",
